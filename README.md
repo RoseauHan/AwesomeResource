@@ -3,7 +3,7 @@ record awesome app. Android, Pc are included.
 At this moment, the repo only record the applications i used. But I am happy if you'd like to contribute to this project.
 ## Principle
 simple, beautiful, useful.
-**The most important point: It has been used for a long term BUT stil remains in the device.**
+**The most important point: It has been used for a long term BUT still remains in the device.**
 
 ### Android
 - [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly) place to organize, read, and share the information you need to stay ahead of the next big trend in your industry. 
