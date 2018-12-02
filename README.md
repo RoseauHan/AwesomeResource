@@ -37,7 +37,7 @@ Use Pocket to capture the content that comes at you all day long, and curate you
 
 - [Send Anywhere](https://play.google.com/store/apps/details?id=com.estmob.android.sendanywhere) Send Anywhere: Easy, quick, and unlimited file sharing.
 
-- [Snapmod] (https://play.google.com/store/apps/details?id=cn.gavinliu.snapmod) Snapmod lets you to easily add your screenshots into device frames. You can use it to share your screenshots, wallpapers or apps mockups.
+- [Snapmod](https://play.google.com/store/apps/details?id=cn.gavinliu.snapmod) Snapmod lets you to easily add your screenshots into device frames. You can use it to share your screenshots, wallpapers or apps mockups.
  
 ### IOS
 
