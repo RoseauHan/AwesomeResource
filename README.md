@@ -59,6 +59,33 @@ Use Pocket to capture the content that comes at you all day long, and curate you
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
 
 ### IOS
+- Bilibili HD
+- Coursera
+- duet
+- Google Earth
+- Google News
+- Google Calendar
+- Google Keep 
+- Google Photos
+- Feedly
+- Kindle
+- Pocket
+- 轻芒阅读
+- RD Client
+- sendanywhere
+- Spotify
+- Telegram X
+- Udacity
+- YouTube
+- 即刻
+- Potatso Lite
+- PDF Expert
+- Price Tag
+- Picsew
+- Notablity
+- Document
+- Scannable
+- Wikipedia
 
 
 ### PC
