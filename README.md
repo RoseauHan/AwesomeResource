@@ -39,6 +39,8 @@ Use Pocket to capture the content that comes at you all day long, and curate you
 
 - [Snapmod](https://play.google.com/store/apps/details?id=cn.gavinliu.snapmod) Snapmod lets you to easily add your screenshots into device frames. You can use it to share your screenshots, wallpapers or apps mockups.
  
+- [Termux](https://play.google.com/store/apps/details?id=com.termux)Termux combines powerful terminal emulation with an extensive Linux package collection.
+- [Hacker Keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard) This keyboard is especially useful if you use ConnectBot for SSH access. It provides working Tab/Ctrl/Esc keys, and the arrow keys are essential for devices that don't have a trackball or D-Pad.
 ### Chrome
 - [Google Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi) 
 
