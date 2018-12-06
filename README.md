@@ -110,7 +110,21 @@ Add buttons (past 1/2/3 days, weeks, PDF search etc.) for Google search page.
 
 
 ### PC
-
+- Bandizip
+- Duet Display
+- Fliqlo Screen Saver
+- Git 
+- Hyper
+- Listary 
+- Notepad++
+- PotPlayer
+- QuickLook
+- Send Anywhere
+- Tim
+- Ubuntu
+- Unity
+- XMind ZEN
+- Xodo
 
 ### Bookmark
 [Bookmark](https://github.com/RoseauHan/Awesome-App/tree/master/bookmark)
