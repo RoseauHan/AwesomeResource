@@ -107,8 +107,6 @@ Add buttons (past 1/2/3 days, weeks, PDF search etc.) for Google search page.
 添加一个按钮，复制百度文库中的文字
 
 
-
-
 ### PC
 - Bandizip
 - Duet Display
@@ -128,3 +126,12 @@ Add buttons (past 1/2/3 days, weeks, PDF search etc.) for Google search page.
 
 ### Bookmark
 [Bookmark](https://github.com/RoseauHan/Awesome-App/tree/master/bookmark)
+
+### Instagram
+lixiangwei_
+
+### RSS
+
+
+### YouTube
+
