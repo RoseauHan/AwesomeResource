@@ -1,9 +1,26 @@
-# Awesome-App
-record awesome app. Android, Pc, Chrome are included.
+# Awesome-Resource
+record awesome Resourse. Android, Pc, Chrome, Bookmark, TamperMonkey, instagram, RSS  are included.
 At this moment, the repo only record the applications i used. But I am happy if you'd like to contribute to this project.
 ## Principle
 simple, beautiful, useful.
-**The most important point: It has been used for a long term BUT still remains in the device.**
+**The most important point: It has been used for a long term BUT still remains in the device or in your follwing list.**
+
+### PC
+- [Bandizip](http://www.bandisoft.com/bandizip/)
+- [Duet Display](https://www.duetdisplay.com/)
+- [Fliqlo Screen Saver](https://fliqlo.com/)
+- [Git](https://git-scm.com/downloads) 
+- [Hyper](https://hyper.is/)
+- [Listary](https://www.listary.com/) 
+- [Notepad++](https://notepad-plus-plus.org/download)
+- [PotPlayer](https://potplayer.daum.net/)
+- [QuickLook](https://pooi.moe/QuickLook/)
+- [Send Anywhere](https://send-anywhere.com/)
+- [Tim](http://tim.qq.com/)
+- [Ubuntu](https://tutorials.ubuntu.com/tutorial/tutorial-ubuntu-on-windows#0)
+- [XMind ZEN](https://www.xmind.cn/zen/)
+- [Xodo](https://www.xodo.com/)
+
 
 ### Android
 - [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly) place to organize, read, and share the information you need to stay ahead of the next big trend in your industry. 
@@ -41,6 +58,38 @@ Use Pocket to capture the content that comes at you all day long, and curate you
  
 - [Termux](https://play.google.com/store/apps/details?id=com.termux)Termux combines powerful terminal emulation with an extensive Linux package collection.
 - [Hacker Keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard) This keyboard is especially useful if you use ConnectBot for SSH access. It provides working Tab/Ctrl/Esc keys, and the arrow keys are essential for devices that don't have a trackball or D-Pad.
+
+### IOS
+- [Bilibili HD](https://itunes.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9hd-%E5%BC%B9%E5%B9%95%E7%95%AA%E5%89%A7%E7%9B%B4%E6%92%AD%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91/id1093486973?mt=8)
+- [Coursera](https://itunes.apple.com/app/apple-store/id736535961?mt=8)
+- [duet](https://www.duetdisplay.com)
+- [Google Earth](https://itunes.apple.com/us/app/google-earth/id293622097?mt=8)
+- [Google News](https://itunes.apple.com/us/app/google-news/id459182288?mt=8)
+- [Google Calendar](https://itunes.apple.com/us/app/google-calendar-time-planner/id909319292?mt=8)
+- [Google Keep](https://itunes.apple.com/us/app/google-keep-notes-and-lists/id1029207872?mt=8) 
+- [Google Photos](https://itunes.apple.com/us/app/google-photos/id962194608?mt=8)
+- [Feedly](https://itunes.apple.com/us/app/feedly-smart-news-reader/id396069556?mt=8)
+- [Kindle](https://itunes.apple.com/gb/app/kindle/id302584613?mt=8)
+- [Pocket](https://itunes.apple.com/us/app/pocket-save-read-grow/id309601447?mt=8)
+- [轻芒阅读](https://itunes.apple.com/us/app/%E8%BD%BB%E8%8A%92%E9%98%85%E8%AF%BB/id1324073897?mt=8)
+- [RD Client](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-ios)
+- [sendanywhere](https://itunes.apple.com/app/apple-store/id596642855?mt=8)
+- [Spotify](https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8)
+- [Telegram X](https://itunes.apple.com/us/app/telegram-x/id898228810?mt=8)
+- [Udacity](https://itunes.apple.com/us/app/udacity/id819700933?mt=8)
+- [YouTube](https://itunes.apple.com/us/app/youtube-watch-listen-stream/id544007664?mt=8)
+- [即刻](https://itunes.apple.com/cn/app/%E5%8D%B3%E5%88%BB-%E6%89%BE%E5%88%B0%E8%87%AA%E5%B7%B1%E4%BA%BA/id966129812?mt=8)
+- [白描取字](https://itunes.apple.com/cn/app/%E7%99%BD%E6%8F%8F%E5%8F%96%E5%AD%97-%E4%B8%93%E4%B8%9A%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E5%B7%A5%E5%85%B7/id1437865316#?platform=ipad)
+- [Potatso Lite](https://itunes.apple.com/us/app/potatso-lite/id1239860606?mt=8)
+- [PDF Expert](https://pdfexpert.com/ios)
+- [Price Tag](https://itunes.apple.com/cn/app/price-tag-%E5%8F%91%E7%8E%B0%E5%A5%BD%E5%BA%94%E7%94%A8/id1166819590?mt=8)
+- [Picsew](https://itunes.apple.com/us/app/picsew-screenshot-stitching/id1208145167?mt=8)
+- [Notablity](https://itunes.apple.com/us/app/notability/id360593530?mt=8)
+- [Document](https://itunes.apple.com/us/app/documents-by-readdle/id364901807?mt=8)
+- [Scannable](https://itunes.apple.com/us/app/evernote-scannable/id883338188?mt=8)
+- [Wikipedia](https://itunes.apple.com/us/app/wikipedia/id324715238?mt=8)
+
+
 ### Chrome
 - [Google Keep](https://chrome.google.com/webstore/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi) 
 
@@ -60,34 +109,6 @@ Use Pocket to capture the content that comes at you all day long, and curate you
 
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
 
-### IOS
-- Bilibili HD
-- Coursera
-- duet
-- Google Earth
-- Google News
-- Google Calendar
-- Google Keep 
-- Google Photos
-- Feedly
-- Kindle
-- Pocket
-- 轻芒阅读
-- RD Client
-- sendanywhere
-- Spotify
-- Telegram X
-- Udacity
-- YouTube
-- 即刻
-- Potatso Lite
-- PDF Expert
-- Price Tag
-- Picsew
-- Notablity
-- Document
-- Scannable
-- Wikipedia
 
 
 ### TamperMonkey
@@ -107,29 +128,11 @@ Add buttons (past 1/2/3 days, weeks, PDF search etc.) for Google search page.
 添加一个按钮，复制百度文库中的文字
 
 
-### PC
-- Bandizip
-- Duet Display
-- Fliqlo Screen Saver
-- Git 
-- Hyper
-- Listary 
-- Notepad++
-- PotPlayer
-- QuickLook
-- Send Anywhere
-- Tim
-- Ubuntu
-- Unity
-- XMind ZEN
-- Xodo
-
 ### Bookmark
 [Bookmark](https://github.com/RoseauHan/Awesome-App/tree/master/bookmark)
 
 ### Instagram
-[lixiangwei_](https://www.instagram.com/lixiangwei_/)
-
+[lixiangwei_](https://www.instagram.com/lixiangwei_)
 
 
 ### RSS
