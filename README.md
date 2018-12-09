@@ -136,7 +136,7 @@ Add buttons (past 1/2/3 days, weeks, PDF search etc.) for Google search page.
 
 
 ### RSS
-
+[Qdaily](https://www.qdaily.com/feed.xml)
 
 ### YouTube
-
+[Paper Clip](https://www.youtube.com/channel/UCUGJ-yKqQHl4FSZwUmGpiUg)
