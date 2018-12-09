@@ -133,7 +133,7 @@ Add buttons (past 1/2/3 days, weeks, PDF search etc.) for Google search page.
 
 ### Instagram
 [lixiangwei_](https://www.instagram.com/lixiangwei_)
-
+[k5fuwa](https://www.instagram.com/k5fuwa/)
 
 ### RSS
 [Qdaily](https://www.qdaily.com/feed.xml)
