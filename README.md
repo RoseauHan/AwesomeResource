@@ -37,6 +37,14 @@ simple, beautiful, useful.
 
 - [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) FREE UNLIMITED STORAGE, VISUAL SEARCH, SMART AUTOMATIC ALBUMS, almost the best photo application in the world.
 
+- [Gmail]()
+
+- [Google Podcasts]()
+
+- [sharedr]()
+
+- []()
+
 - [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android) Instagram is a simple way to capture and share the world’s moments. 
 
 - [Pocket](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro) THE PLACE TO ABSORB GREAT CONTENT.
