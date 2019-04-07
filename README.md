@@ -25,7 +25,6 @@ simple, beautiful, useful.
 
 ### Android
 - [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly)
-![Feedly](./icon/feedly.webp)
 全平台RSS订阅工具
 place to organize, read, and share the information you need to stay ahead of the next big trend in your industry. 
 
