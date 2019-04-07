@@ -37,7 +37,7 @@ Get the official Google Calendar app for your Android phone and tablet to save t
 Google Chrome is a fast, easy to use, and secure web browser.
 
 - [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
-Capture inspiration when it strikes! Keep is simply the quickest way to offload ideas, thoughts, and to-dos without losing focus.#
+Capture inspiration when it strikes! Keep is simply the quickest way to offload ideas, thoughts, and to-dos without losing focus.
 
 - [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
 FREE UNLIMITED STORAGE, VISUAL SEARCH, SMART AUTOMATIC ALBUMS, almost the best photo application in the world.
@@ -59,7 +59,7 @@ Instagram is a simple way to capture and share the world’s moments.
 
 - [Pocket](https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro) 
  THE PLACE TO BSORB GREAT CONTENT.
- Use Pocket to capture the content that comes at you all day long, and curate your own space filled with only the topics you care about.**SAVE ANYWHERE, READ ANYWHERE.**
+ Use Pocket to capture the content that comes at you all day long, and curate your own space filled with only the topics you care about.SAVE ANYWHERE, READ ANYWHERE.
 
 - [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music) 
 Listen to the ight music and podcasts, wherever you are. 
