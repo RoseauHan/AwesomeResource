@@ -106,7 +106,8 @@ See what the world is watching.
 - [豆瓣](https://www.douban.com/doubanapp)
 精神角落
  
-- [即刻]()
+- [即刻](https://okjike.com/)
+充满可能性的app
 
 ### IOS
 - [Bilibili HD](https://itunes.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9hd-%E5%BC%B9%E5%B9%95%E7%95%AA%E5%89%A7%E7%9B%B4%E6%92%AD%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91/id1093486973?mt=8)
