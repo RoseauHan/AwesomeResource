@@ -7,31 +7,26 @@ simple, beautiful, useful.
 **The most important point: It has been used for a long term BUT still remains in the device or in your follwing list.**
 
 ### PC
-- [Bandizip](http://www.bandisoft.com/bandizip/)
-- [Duet Display](https://www.duetdisplay.com/)
-- [Fliqlo Screen Saver](https://fliqlo.com/)
-- [Git](https://git-scm.com/downloads) 
-- [Hyper](https://hyper.is/)
-- [Listary](https://www.listary.com/) 
-- [Notepad++](https://notepad-plus-plus.org/download)
-- [PotPlayer](https://potplayer.daum.net/)
-- [QuickLook](https://pooi.moe/QuickLook/)
-- [Send Anywhere](https://send-anywhere.com/)
-- [Tim](http://tim.qq.com/)
-- [Ubuntu](https://tutorials.ubuntu.com/tutorial/tutorial-ubuntu-on-windows#0)
-- [XMind ZEN](https://www.xmind.cn/zen/)
-- [Xodo](https://www.xodo.com/)
+- [Bandizip](http://www.bandisoft.com/bandizip/) zip tool
+- [Chrome](http://www.google.com/chrome) standard browser
+- [Duet Display](https://www.duetdisplay.com/) display with ipad
+- [Dism ++](https://www.chuyu.me/zh-Hans/) advanced tool on windows
+- [Git](https://git-scm.com/downloads) version control
+- [Hyper](https://hyper.is/) beautiful termial with wsl
+- [Listary](https://www.listary.com/) search & efficient
+- [PotPlayer](https://potplayer.daum.net/) video player
+- [QuickLook](https://pooi.moe/QuickLook/) QuickLook with space ,mac os like
+- [Tim](http://tim.qq.com/) message tool
+- [Typora](http://typora.io) markdown editior
+- [Ubuntu](https://tutorials.ubuntu.com/tutorial/tutorial-ubuntu-on-windows#0) wsl 
+- [vs code](https://code.visualstudio.com/) Code Editing. Redefined
+- [XMind ZEN](https://www.xmind.cn/zen/) mind mapping 
+- [Xodo](https://www.xodo.com/) pdf viewer
 
 
 ### Android
-- [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly)
-place to organize, read, and share the information you need to stay ahead of the next big trend in your industry. 
-
 - [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) 
 Gboard has everything you love about Google Keyboard—speed and reliability, Glide Typing, voice typing, and more—plus Google Search built in. No more app switching; just search and share, right from your keyboard.
-
-- [Google Calender](https://play.google.com/store/apps/details?id=com.google.android.calendar)
-Get the official Google Calendar app for your Android phone and tablet to save time and make the most of every day.
 
 - [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome)
 Google Chrome is a fast, easy to use, and secure web browser.
@@ -61,9 +56,6 @@ Instagram is a simple way to capture and share the world’s moments.
  THE PLACE TO BSORB GREAT CONTENT.
  Use Pocket to capture the content that comes at you all day long, and curate your own space filled with only the topics you care about.SAVE ANYWHERE, READ ANYWHERE.
 
-- [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music) 
-Listen to the ight music and podcasts, wherever you are. 
-
 - [Swipes](https://play.google.com/store/apps/details?id=com.swipesapp.android)
  Swipes hasbeen voted as one of the world’s top 5 productivity apps with a Best New Startup prize by Evernote and a nomination for a Webby Award.
 
@@ -75,9 +67,6 @@ See what the world is watching.
 
 - [NOMO](https://play.google.com/store/apps/details?id=com.blink.academy.nomopro)
  NOMO was desgned to help casual photographers to focus on taking pictures, instead of all the post-production retouches. 
-
-- [Send Anywhere](https://play.google.com/store/apps/details?id=com.estmob.android.sendanywhere)
- SendAnywhere: Easy, quick, and unlimited file sharing.
 
 - [Snapmod](https://play.google.com/store/apps/details?id=cn.gavinliu.snapmod)
  Snapmod lets you to easily add your screenshots into device frames. You can use it to share your screenshots, wallpapers or apps mockups.
@@ -91,21 +80,22 @@ See what the world is watching.
 - [即刻](https://okjike.com/)
 充满可能性的app
 
-### IOS
+- [钱迹](https://qianjiapp.com/) 记账工具
+
+### ios
 - [Bilibili HD](https://itunes.apple.com/cn/app/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9hd-%E5%BC%B9%E5%B9%95%E7%95%AA%E5%89%A7%E7%9B%B4%E6%92%AD%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91/id1093486973?mt=8)
 - [Coursera](https://itunes.apple.com/app/apple-store/id736535961?mt=8)
 - [duet](https://www.duetdisplay.com)
 - [Google Earth](https://itunes.apple.com/us/app/google-earth/id293622097?mt=8)
-- [Google News](https://itunes.apple.com/us/app/google-news/id459182288?mt=8)
 - [Google Calendar](https://itunes.apple.com/us/app/google-calendar-time-planner/id909319292?mt=8)
 - [Google Keep](https://itunes.apple.com/us/app/google-keep-notes-and-lists/id1029207872?mt=8) 
 - [Google Photos](https://itunes.apple.com/us/app/google-photos/id962194608?mt=8)
 - [Feedly](https://itunes.apple.com/us/app/feedly-smart-news-reader/id396069556?mt=8)
+- [JSBox]()
 - [Kindle](https://itunes.apple.com/gb/app/kindle/id302584613?mt=8)
 - [Pocket](https://itunes.apple.com/us/app/pocket-save-read-grow/id309601447?mt=8)
 - [轻芒阅读](https://itunes.apple.com/us/app/%E8%BD%BB%E8%8A%92%E9%98%85%E8%AF%BB/id1324073897?mt=8)
 - [RD Client](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-ios)
-- [sendanywhere](https://itunes.apple.com/app/apple-store/id596642855?mt=8)
 - [Spotify](https://itunes.apple.com/us/app/spotify-music/id324684580?mt=8)
 - [Telegram X](https://itunes.apple.com/us/app/telegram-x/id898228810?mt=8)
 - [Udacity](https://itunes.apple.com/us/app/udacity/id819700933?mt=8)
@@ -140,6 +130,8 @@ See what the world is watching.
 - [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
 
 - [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)
+
+- [Surfingkeys](https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc)
 
 
 
